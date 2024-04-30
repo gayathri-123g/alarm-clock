@@ -8,6 +8,7 @@ When the set alarm time is reached ,plays an audible alarm
 
 USER GOALS:
 Show the current localtime .
+
 Set an alarm clock using the current local time.
 
 
@@ -16,8 +17,12 @@ LANGUAGES:
 
 INSTALLING PACKAGES:
 TKINTER
-DATE&TIME 
 
-using pip install 
+DATE
+
+TIME 
+
+using pip install we instal the following packages  
+
 The clock displays this ,
 ![img1](https://github.com/gayathri-123g/alarm-clock/assets/157293016/5bb7fd8c-6d4a-43b2-b07b-c7e30d1d65ab)
