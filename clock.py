@@ -18,7 +18,7 @@ clockTime = tkinter.Label(
         "courier new",
         40,
     ),
-    background="black",
+    background="Red",
     foreground="white",
 )
 clockTime.pack(anchor="center")
