@@ -35,7 +35,7 @@ def alarm():
             )
 
 
-Label(root, text="Alarm Clock", font=("Helvetica 20 bold"), fg="red").pack(pady=10)
+Label(root, text="Alarm Clock", font=("Helvetica 20 bold"), fg="black").pack(pady=10)
 Label(root, text="Set Time", font=("Helvetica 15 bold")).pack()
 
 frame = Frame(root)
